@@ -1,10 +1,11 @@
 {
   "intervalSeconds": 10,
-  "items": [
+  "files": [
     "https://drive.google.com/uc?export=download&id=1-oBYtjYigfFOXAU1_xMA40uK0TIu9n02",
     "https://drive.google.com/uc?export=download&id=1UBBaxgNS_riddTDKjXED4A0aKtzgaVkD",
     "https://drive.google.com/uc?export=download&id=1Ew69cIETc-MtLyHgm81Lnu-DJ6ntqESE"
   ]
 }
+
 
 
